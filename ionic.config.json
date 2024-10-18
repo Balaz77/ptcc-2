@@ -1,0 +1,7 @@
+{
+  "name": "ptcc-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
